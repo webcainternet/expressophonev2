@@ -96,7 +96,7 @@
         </div>
 
         <div class="copyright">
-            <div class="container">EXPRESSOPHONE COM DE ELETRONICOS E SEUS ACESSORIOS
+            <div class="container">
                 ExpressoPhone Com de Eletrônicos e Seus Acessórios - CNPJ: 20.103.298/0001-72 - Todos os direitos reservados © <?php echo date("Y"); ?>
             </div>
         </div>
