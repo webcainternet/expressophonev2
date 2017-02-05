@@ -96,8 +96,8 @@
         </div>
 
         <div class="copyright">
-            <div class="container">
-                Confecções Dois Corações LTDA - CNPJ: 22.036.255/0003-09 - Todos os direitos reservados © <?php echo date("Y"); ?>
+            <div class="container">EXPRESSOPHONE COM DE ELETRONICOS E SEUS ACESSORIOS
+                ExpressoPhone Com de Eletrônicos e Seus Acessórios - CNPJ: 20.103.298/0001-72 - Todos os direitos reservados © <?php echo date("Y"); ?>
             </div>
         </div>
 
